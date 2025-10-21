@@ -1,0 +1,9 @@
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/armeabi-v7a/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/armeabi-v7a/rnasyncstorage_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/armeabi-v7a/rnasyncstorage_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir

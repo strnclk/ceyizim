@@ -1,0 +1,4 @@
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/sitrancelik/Projects/Ceyizim/android/app/.cxx/Debug/w3cq504v/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
